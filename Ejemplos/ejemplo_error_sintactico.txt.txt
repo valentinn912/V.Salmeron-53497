@@ -1,0 +1,4 @@
+tareas {
+    x = 10
+    mostrar(x);
+}
