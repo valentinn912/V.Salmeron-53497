@@ -1,0 +1,10 @@
+<programa> ::= "tareas" "{" { <instruccion> } "}" ;
+<instruccion> ::= <asignacion> | <condicional> | <imprimir> ;
+<asignacion> ::= <id> "=" <expresion> ":" ;
+<condicional> ::= "si" <condicion> "{" { <instruccion> } "}" ;
+<imprimir> ::= "mostrar" "(" <expresion> ")" ";" ;
+<condicion> ::= <expresion> ("==" | "!=" | ">" | "<") <expresion> ;
+<expresion> ::= <termino> { ("+" | "-") <termino> } ;
+<termino> ::= <numero> | <id> ;
+<id> ::= [a-zA-Z]+ ;
+<numero> ::= [0-9]+ ;
