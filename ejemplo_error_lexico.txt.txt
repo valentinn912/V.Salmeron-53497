@@ -1,0 +1,6 @@
+tareas {
+    dinero = 500$;
+    si dinero > 100 {
+        mostrar(dinero);
+    }
+}

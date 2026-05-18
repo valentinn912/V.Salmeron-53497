@@ -1,0 +1,6 @@
+tareas {
+    puntaje = 100;
+    si puntaje > 50 {
+        mostrar(puntaje);
+    }
+}
