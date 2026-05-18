@@ -40,3 +40,12 @@ Ejecución (Interpreter): El componente Visitor ejecuta la lógica del programa 
 
 Reporte de Memoria: Al finalizar, el sistema imprime el estado final de las variables (memoria) para verificar los valores calculados.
 
+## Pruebas y Resultados
+El repositorio incluye ejemplos de prueba para validar el comportamiento del sistema:
+
+Ejecución Exitosa: Se muestra el árbol, la traducción y los resultados de los comandos mostrar().
+<img width="593" height="424" alt="correcto" src="https://github.com/user-attachments/assets/444354a0-0879-4820-9e2a-6f0a1d244615" />
+
+
+Detección de Errores: En caso de ingresar un código inválido, el analizador indicará la línea exacta y el motivo del error.
+<img width="365" height="323" alt="mal" src="https://github.com/user-attachments/assets/d12d1c8e-838e-469a-807f-401bcfe339a4" />
