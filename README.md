@@ -44,8 +44,9 @@ Reporte de Memoria: Al finalizar, el sistema imprime el estado final de las vari
 El repositorio incluye ejemplos de prueba para validar el comportamiento del sistema:
 
 Ejecución Exitosa: Se muestra el árbol, la traducción y los resultados de los comandos mostrar().
-<img width="593" height="424" alt="correcto" src="https://github.com/user-attachments/assets/444354a0-0879-4820-9e2a-6f0a1d244615" />
+<img width="648" height="459" alt="bien" src="https://github.com/user-attachments/assets/94fca4cc-6981-40b0-b951-889097fc5fbe" />
+<img width="642" height="251" alt="bien 2" src="https://github.com/user-attachments/assets/7dd38418-376a-408c-9e26-032d7617b328" />
 
 
 Detección de Errores: En caso de ingresar un código inválido, el analizador indicará la línea exacta y el motivo del error.
-<img width="365" height="323" alt="mal" src="https://github.com/user-attachments/assets/d12d1c8e-838e-469a-807f-401bcfe339a4" />
+<img width="283" height="460" alt="mal" src="https://github.com/user-attachments/assets/be3134f9-7e6b-4b5a-bc4c-012b2ddbbc5b" />
